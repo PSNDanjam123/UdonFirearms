@@ -70,4 +70,5 @@ public class BaseWeaponController : UdonSharpBehaviour
         m_grip.transform.rotation *= Quaternion.Euler(-90, 0, -90);
     }
 
+
 }
